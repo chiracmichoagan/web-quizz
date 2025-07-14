@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Culture Générale"
+  },
+  {
+    "id": 2,
+    "name": "Divertissement : Livres"
+  },
+  {
+    "id": 3,
+    "name": "Divertissement : Films"
+  },
+  {
+    "id": 4,
+    "name": "Divertissement : Musique"
+  },
+  {
+    "id": 5,
+    "name": "Divertissement : Comédies Musicales & Théâtres"
+  },
+  {
+    "id": 6,
+    "name": "Divertissement : Télévision"
+  },
+  {
+    "id": 7,
+    "name": "Divertissement : Jeux Vidéo"
+  },
+  {
+    "id": 8,
+    "name": "Divertissement : Jeux de Société"
+  },
+  {
+    "id": 9,
+    "name": "Science & Nature"
+  },
+  {
+    "id": 10,
+    "name": "Science : Informatique"
+  },
+  {
+    "id": 11,
+    "name": "Science : Mathématiques"
+  },
+  {
+    "id": 12,
+    "name": "Mythologie"
+  },
+  {
+    "id": 13,
+    "name": "Sport"
+  },
+  {
+    "id": 14,
+    "name": "Géographie"
+  },
+  {
+    "id": 15,
+    "name": "Histoire"
+  },
+  {
+    "id": 16,
+    "name": "Politique"
+  },
+  {
+    "id": 17,
+    "name": "Art"
+  },
+  {
+    "id": 18,
+    "name": "Célébrités"
+  },
+  {
+    "id": 19,
+    "name": "Animaux"
+  },
+  {
+    "id": 20,
+    "name": "Véhicules"
+  },
+  {
+    "id": 21,
+    "name": "Divertissement : Bandes dessinées"
+  },
+  {
+    "id": 22,
+    "name": "Science : Gadgets"
+  },
+  {
+    "id": 23,
+    "name": "Divertissement : Anime Japonais & Manga"
+  },
+  {
+    "id": 24,
+    "name": "Divertissement : Dessins Animés"
+  }
+]

@@ -1,0 +1,2542 @@
+[
+  {
+    "categoryId": 1,
+    "question": "Quelle est la capitale de l'Allemagne ?",
+    "correct_answer": "Berlin",
+    "incorrect_answers": ["Munich", "Francfort", "Hambourg"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 1,
+    "question": "Quel est le plus grand pays du monde en superficie ?",
+    "correct_answer": "La Russie",
+    "incorrect_answers": ["Le Canada", "La Chine", "Les États-Unis"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 1,
+    "question": "Qui a peint la Joconde ?",
+    "correct_answer": "Léonard de Vinci",
+    "incorrect_answers": ["Michel-Ange", "Raphaël", "Donatello"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 1,
+    "question": "En quelle année a eu lieu la Révolution française ?",
+    "correct_answer": "1789",
+    "incorrect_answers": ["1776", "1804", "1815"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 1,
+    "question": "Quel est le symbole chimique de l’or ?",
+    "correct_answer": "Au",
+    "incorrect_answers": ["Ag", "Pb", "Fe"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 1,
+    "question": "Quel océan borde la côte est des États-Unis ?",
+    "correct_answer": "Océan Atlantique",
+    "incorrect_answers": ["Océan Pacifique", "Océan Indien", "Océan Arctique"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 1,
+    "question": "Quelle est la capitale de l’Australie ?",
+    "correct_answer": "Canberra",
+    "incorrect_answers": ["Sydney", "Melbourne", "Brisbane"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 1,
+    "question": "Quel est le plus long fleuve du monde ?",
+    "correct_answer": "Le Nil",
+    "incorrect_answers": ["L’Amazone", "Le Mississippi", "Le Yangtsé"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 1,
+    "question": "Qui est l’auteur du roman 'Les Misérables' ?",
+    "correct_answer": "Victor Hugo",
+    "incorrect_answers": ["Émile Zola", "Gustave Flaubert", "Honoré de Balzac"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 1,
+    "question": "Combien de continents y a-t-il sur Terre ?",
+    "correct_answer": "Sept",
+    "incorrect_answers": ["Cinq", "Six", "Huit"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 1,
+    "question": "Quel instrument de musique a des touches blanches et noires ?",
+    "correct_answer": "Le piano",
+    "incorrect_answers": ["La guitare", "Le violon", "La batterie"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 1,
+    "question": "Quel est l'auteur de 'Les Misérables' ?",
+    "correct_answer": "Victor Hugo",
+    "incorrect_answers": ["Émile Zola", "Alexandre Dumas", "Albert Camus"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 1,
+    "question": "En quelle année a eu lieu la Révolution française ?",
+    "correct_answer": "1789",
+    "incorrect_answers": ["1776", "1804", "1815"],
+    "difficulty": "hard"
+  },
+  {
+    "categoryId": 1,
+    "question": "Quel pays a inventé les Jeux Olympiques ?",
+    "correct_answer": "La Grèce",
+    "incorrect_answers": ["L'Italie", "La France", "L'Égypte"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 1,
+    "question": "Quel est le plus grand désert du monde ?",
+    "correct_answer": "L'Antarctique",
+    "incorrect_answers": ["Le Sahara", "Le désert d'Atacama", "Le Gobi"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 2,
+    "question": "Quel est l'élément chimique représenté par le symbole O ?",
+    "correct_answer": "Oxygène",
+    "incorrect_answers": ["Or", "Osmium", "Ozone"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 2,
+    "question": "Qui a écrit 'Le Petit Prince' ?",
+    "correct_answer": "Antoine de Saint-Exupéry",
+    "incorrect_answers": ["Victor Hugo", "Albert Camus", "Marcel Proust"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 2,
+    "question": "Dans quelle œuvre trouve-t-on le personnage de Sherlock Holmes ?",
+    "correct_answer": "Les aventures de Sherlock Holmes",
+    "incorrect_answers": ["Dracula", "Les Misérables", "Le Comte de Monte-Cristo"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 2,
+    "question": "Quel est le nom du magicien dans la série 'Harry Potter' ?",
+    "correct_answer": "Albus Dumbledore",
+    "incorrect_answers": ["Severus Snape", "Voldemort", "Harry Potter"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 2,
+    "question": "Qui est l’auteur de '1984' ?",
+    "correct_answer": "George Orwell",
+    "incorrect_answers": ["Aldous Huxley", "Ray Bradbury", "Jules Verne"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 2,
+    "question": "Quel roman commence par la phrase 'Tous les enfants, sauf un, grandissent.' ?",
+    "correct_answer": "Peter Pan",
+    "incorrect_answers": [
+      "Alice au pays des merveilles",
+      "Le Livre de la jungle",
+      "Charlie et la chocolaterie"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 2,
+    "question": "Quel auteur français est connu pour ses romans policiers avec le personnage du Commissaire Maigret ?",
+    "correct_answer": "Georges Simenon",
+    "incorrect_answers": ["Agatha Christie", "Arthur Conan Doyle", "Raymond Chandler"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 2,
+    "question": "Quel est le genre littéraire du roman 'Le Seigneur des Anneaux' ?",
+    "correct_answer": "Fantasy",
+    "incorrect_answers": ["Science-fiction", "Roman policier", "Roman historique"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 2,
+    "question": "Qui a écrit 'Les Fleurs du mal' ?",
+    "correct_answer": "Charles Baudelaire",
+    "incorrect_answers": ["Paul Verlaine", "Arthur Rimbaud", "Victor Hugo"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 2,
+    "question": "Dans quel roman trouve-t-on le personnage de Jean Valjean ?",
+    "correct_answer": "Les Misérables",
+    "incorrect_answers": ["Notre-Dame de Paris", "Germinal", "Le Père Goriot"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 2,
+    "question": "Quel est le thème principal du roman 'La Métamorphose' de Franz Kafka ?",
+    "correct_answer": "La transformation et l’aliénation",
+    "incorrect_answers": ["L’amour impossible", "La quête du pouvoir", "La guerre"],
+    "difficulty": "hard"
+  },
+  {
+    "categoryId": 2,
+    "question": "Combien de planètes dans le système solaire ?",
+    "correct_answer": "8",
+    "incorrect_answers": ["7", "9", "10"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 2,
+    "question": "Quel est le plus grand organe du corps humain ?",
+    "correct_answer": "La peau",
+    "incorrect_answers": ["Le foie", "Le cerveau", "Le cœur"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 2,
+    "question": "Qui a formulé la théorie de la relativité ?",
+    "correct_answer": "Albert Einstein",
+    "incorrect_answers": ["Isaac Newton", "Galilée", "Stephen Hawking"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 2,
+    "question": "Quel est l'os le plus long du corps humain ?",
+    "correct_answer": "Le fémur",
+    "incorrect_answers": ["L'humérus", "Le tibia", "Le radius"],
+    "difficulty": "hard"
+  },
+  {
+    "categoryId": 3,
+    "question": "Combien de joueurs y a-t-il dans une équipe de football sur le terrain ?",
+    "correct_answer": "11",
+    "incorrect_answers": ["10", "9", "12"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 3,
+    "question": "Qui a réalisé le film 'Le Parrain' ?",
+    "correct_answer": "Francis Ford Coppola",
+    "incorrect_answers": ["Steven Spielberg", "Martin Scorsese", "Quentin Tarantino"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 3,
+    "question": "Dans quel film trouve-t-on le personnage de Forrest Gump ?",
+    "correct_answer": "Forrest Gump",
+    "incorrect_answers": ["Philadelphia", "Le Terminal", "Cast Away"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 3,
+    "question": "Quel film a remporté l'Oscar du meilleur film en 1994 ?",
+    "correct_answer": "Forrest Gump",
+    "incorrect_answers": ["Pulp Fiction", "Les Évadés", "Quatre mariages et un enterrement"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 3,
+    "question": "Quel est le nom de l’acteur principal dans la saga 'Indiana Jones' ?",
+    "correct_answer": "Harrison Ford",
+    "incorrect_answers": ["Tom Hanks", "Brad Pitt", "Mel Gibson"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 3,
+    "question": "Dans quel film peut-on entendre la célèbre réplique : 'Je suis ton père' ?",
+    "correct_answer": "Star Wars : L'Empire contre-attaque",
+    "incorrect_answers": ["Star Trek", "Les Gardiens de la Galaxie", "Retour vers le futur"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 3,
+    "question": "Qui a joué le rôle principal dans le film 'Titanic' ?",
+    "correct_answer": "Leonardo DiCaprio",
+    "incorrect_answers": ["Brad Pitt", "Johnny Depp", "Tom Cruise"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 3,
+    "question": "Quel réalisateur est célèbre pour ses films à suspense comme 'Psychose' ?",
+    "correct_answer": "Alfred Hitchcock",
+    "incorrect_answers": ["Stanley Kubrick", "Ridley Scott", "James Cameron"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 3,
+    "question": "Dans quel film de science-fiction trouve-t-on le personnage de Neo ?",
+    "correct_answer": "Matrix",
+    "incorrect_answers": ["Inception", "Blade Runner", "Avatar"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 3,
+    "question": "Quel film d’animation est produit par Pixar et raconte l’histoire d’un robot nommé WALL-E ?",
+    "correct_answer": "WALL-E",
+    "incorrect_answers": ["Toy Story", "Les Indestructibles", "Vice-versa"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 3,
+    "question": "Dans quelle trilogie cinématographique joue Elijah Wood ?",
+    "correct_answer": "Le Seigneur des Anneaux",
+    "incorrect_answers": ["Harry Potter", "Star Wars", "Pirates des Caraïbes"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 3,
+    "question": "Quelle compétition internationale de football a lieu tous les 4 ans ?",
+    "correct_answer": "La Coupe du Monde",
+    "incorrect_answers": ["L'Euro", "La Ligue des Champions", "La Copa América"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 3,
+    "question": "Quel athlète a remporté le plus de médailles olympiques ?",
+    "correct_answer": "Michael Phelps",
+    "incorrect_answers": ["Usain Bolt", "Larisa Latynina", "Mark Spitz"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 3,
+    "question": "En quelle année le Tour de France a-t-il été créé ?",
+    "correct_answer": "1903",
+    "incorrect_answers": ["1899", "1910", "1924"],
+    "difficulty": "hard"
+  },
+  {
+    "categoryId": 3,
+    "question": "Quel sport utilise un palet ?",
+    "correct_answer": "Le hockey sur glace",
+    "incorrect_answers": ["Le curling", "Le tennis", "Le rugby"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 3,
+    "question": "Combien de sets faut-il gagner pour remporter un match de tennis en Grand Chelem ?",
+    "correct_answer": "3 pour les hommes et 2 pour les femmes",
+    "incorrect_answers": ["2 pour tous", "5 pour les hommes", "4 pour les femmes"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 3,
+    "question": "Quelle nation a remporté la Coupe du Monde de football en 2018 ?",
+    "correct_answer": "La France",
+    "incorrect_answers": ["La Croatie", "L'Allemagne", "Le Brésil"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 3,
+    "question": "Quelle est la distance d’un marathon officiel ?",
+    "correct_answer": "42,195 km",
+    "incorrect_answers": ["40 km", "50 km", "45 km"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 3,
+    "question": "Qui détient le record du monde du 100 mètres masculin ?",
+    "correct_answer": "Usain Bolt",
+    "incorrect_answers": ["Carl Lewis", "Justin Gatlin", "Yohan Blake"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 4,
+    "question": "Qui est surnommé la 'Reine de la Pop' ?",
+    "correct_answer": "Madonna",
+    "incorrect_answers": ["Lady Gaga", "Beyoncé", "Britney Spears"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 4,
+    "question": "Quel groupe a sorti l'album légendaire 'Abbey Road' ?",
+    "correct_answer": "The Beatles",
+    "incorrect_answers": ["The Rolling Stones", "Queen", "Pink Floyd"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 4,
+    "question": "Quelle chanteuse française est connue pour la chanson 'Je te promets' ?",
+    "correct_answer": "Johnny Hallyday",
+    "incorrect_answers": ["Édith Piaf", "Mylène Farmer", "France Gall"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 4,
+    "question": "Quel est le vrai nom de la chanteuse Lady Gaga ?",
+    "correct_answer": "Stefani Joanne Angelina Germanotta",
+    "incorrect_answers": ["Katheryn Elizabeth Hudson", "Robyn Fenty", "Alicia Moore"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 4,
+    "question": "Quel instrument joue souvent Jean-Michel Jarre dans ses concerts ?",
+    "correct_answer": "Synthétiseur",
+    "incorrect_answers": ["Guitare", "Piano", "Batterie"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 4,
+    "question": "Quel groupe est célèbre pour la chanson 'Bohemian Rhapsody' ?",
+    "correct_answer": "Queen",
+    "incorrect_answers": ["The Beatles", "Led Zeppelin", "Pink Floyd"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 4,
+    "question": "Quel est le style musical associé à Bob Marley ?",
+    "correct_answer": "Reggae",
+    "incorrect_answers": ["Jazz", "Blues", "Rock"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 4,
+    "question": "Quel est le nom du festival de musique célèbre qui se tient chaque année à Paris ?",
+    "correct_answer": "Les Vieilles Charrues",
+    "incorrect_answers": ["Coachella", "Glastonbury", "Rock en Seine"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 4,
+    "question": "Quel chanteur français est connu pour la chanson 'Ne me quitte pas' ?",
+    "correct_answer": "Jacques Brel",
+    "incorrect_answers": ["Serge Gainsbourg", "Charles Aznavour", "Georges Brassens"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 4,
+    "question": "Quel est le nom du célèbre opéra composé par Giuseppe Verdi ?",
+    "correct_answer": "La Traviata",
+    "incorrect_answers": ["Carmen", "Le Barbier de Séville", "Madama Butterfly"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 3,
+    "question": "Quel sport combine ski et tir à la carabine ?",
+    "correct_answer": "Le biathlon",
+    "incorrect_answers": ["Le pentathlon moderne", "Le ski de fond", "Le tir sportif"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 4,
+    "question": "Quelle est la monnaie officielle du Japon ?",
+    "correct_answer": "Le yen",
+    "incorrect_answers": ["Le won", "Le yuan", "Le dollar"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 4,
+    "question": "Quelle est la plus grande ville du Canada ?",
+    "correct_answer": "Toronto",
+    "incorrect_answers": ["Montréal", "Vancouver", "Ottawa"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 4,
+    "question": "Quelle chaîne de montagnes sépare l’Europe de l’Asie ?",
+    "correct_answer": "Les monts Oural",
+    "incorrect_answers": ["Les Alpes", "Les Pyrénées", "Les Carpates"],
+    "difficulty": "hard"
+  },
+  {
+    "categoryId": 4,
+    "question": "Dans quel pays se trouve la ville de Marrakech ?",
+    "correct_answer": "Maroc",
+    "incorrect_answers": ["Algérie", "Tunisie", "Égypte"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 4,
+    "question": "Quel fleuve traverse Paris ?",
+    "correct_answer": "La Seine",
+    "incorrect_answers": ["La Loire", "Le Rhône", "La Garonne"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 4,
+    "question": "Quelle est la capitale de l’Australie ?",
+    "correct_answer": "Canberra",
+    "incorrect_answers": ["Sydney", "Melbourne", "Brisbane"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 4,
+    "question": "Quelle est la langue officielle du Brésil ?",
+    "correct_answer": "Le portugais",
+    "incorrect_answers": ["L'espagnol", "Le français", "L'anglais"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 4,
+    "question": "Quel désert est le plus chaud au monde ?",
+    "correct_answer": "Le désert du Sahara",
+    "incorrect_answers": ["Le désert de Gobi", "Le désert d’Atacama", "Le désert de Kalahari"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 4,
+    "question": "Quelle ville est surnommée la 'Ville Lumière' ?",
+    "correct_answer": "Paris",
+    "incorrect_answers": ["Londres", "New York", "Rome"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 4,
+    "question": "Quel pays possède la plus grande superficie ?",
+    "correct_answer": "La Russie",
+    "incorrect_answers": ["Le Canada", "La Chine", "Les États-Unis"],
+    "difficulty": "hard"
+  },
+  {
+    "categoryId": 5,
+    "question": "Quel peintre a réalisé 'La Joconde' ?",
+    "correct_answer": "Léonard de Vinci",
+    "incorrect_answers": ["Michel-Ange", "Raphaël", "Vincent van Gogh"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 5,
+    "question": "Quel mouvement artistique est caractérisé par l’usage de la lumière et de la couleur en touches visibles ?",
+    "correct_answer": "L’impressionnisme",
+    "incorrect_answers": ["Le cubisme", "Le surréalisme", "Le baroque"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 5,
+    "question": "Quel sculpteur est l’auteur de 'Le Penseur' ?",
+    "correct_answer": "Auguste Rodin",
+    "incorrect_answers": ["Camille Claudel", "Donatello", "Michel-Ange"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 5,
+    "question": "Quelle comédie musicale raconte l'histoire de Jean Valjean ?",
+    "correct_answer": "Les Misérables",
+    "incorrect_answers": ["Le Fantôme de l'Opéra", "Cats", "Chicago"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 5,
+    "question": "Qui est l'auteur de la célèbre pièce de théâtre 'Roméo et Juliette' ?",
+    "correct_answer": "William Shakespeare",
+    "incorrect_answers": ["Molière", "Victor Hugo", "Tennessee Williams"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 5,
+    "question": "Dans quelle comédie musicale trouve-t-on la chanson 'Memory' ?",
+    "correct_answer": "Cats",
+    "incorrect_answers": ["Le Roi Lion", "Chicago", "West Side Story"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 5,
+    "question": "Quel spectacle musical est basé sur les chansons du groupe ABBA ?",
+    "correct_answer": "Mamma Mia!",
+    "incorrect_answers": ["Les Misérables", "Hamilton", "Grease"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 5,
+    "question": "Quel compositeur est célèbre pour ses comédies musicales comme 'Le Fantôme de l'Opéra' ?",
+    "correct_answer": "Andrew Lloyd Webber",
+    "incorrect_answers": ["Stephen Sondheim", "Claude-Michel Schönberg", "Lin-Manuel Miranda"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 5,
+    "question": "Quelle pièce de Molière met en scène le personnage d'Harpagon ?",
+    "correct_answer": "L'Avare",
+    "incorrect_answers": ["Le Misanthrope", "Tartuffe", "Le Bourgeois Gentilhomme"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 5,
+    "question": "Dans quelle comédie musicale trouve-t-on le personnage de Maria ?",
+    "correct_answer": "West Side Story",
+    "incorrect_answers": ["Grease", "Les Misérables", "Chicago"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 5,
+    "question": "Quelle comédie musicale est inspirée du film de Disney avec Simba ?",
+    "correct_answer": "Le Roi Lion",
+    "incorrect_answers": ["Aladdin", "La Belle et la Bête", "Mulan"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 5,
+    "question": "Quel auteur américain est connu pour ses pièces comme 'Un tramway nommé Désir' ?",
+    "correct_answer": "Tennessee Williams",
+    "incorrect_answers": ["Arthur Miller", "Eugene O'Neill", "Neil Simon"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 5,
+    "question": "Quelle comédie musicale se déroule dans les années 1950 avec des élèves de lycée ?",
+    "correct_answer": "Grease",
+    "incorrect_answers": ["Hairspray", "Footloose", "West Side Story"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 5,
+    "question": "Quel tableau de Pablo Picasso est célèbre pour ses formes géométriques abstraites ?",
+    "correct_answer": "Les Demoiselles d'Avignon",
+    "incorrect_answers": ["Guernica", "La Vie", "Le Rêve"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 5,
+    "question": "Quel artiste est associé au mouvement surréaliste ?",
+    "correct_answer": "Salvador Dalí",
+    "incorrect_answers": ["Claude Monet", "Henri Matisse", "Edgar Degas"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 5,
+    "question": "Quel style architectural est caractérisé par des arcs brisés et des vitraux colorés ?",
+    "correct_answer": "Le gothique",
+    "incorrect_answers": ["Le roman", "Le baroque", "Le classique"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 5,
+    "question": "Quel artiste est célèbre pour ses peintures de tournesols ?",
+    "correct_answer": "Vincent van Gogh",
+    "incorrect_answers": ["Paul Cézanne", "Édouard Manet", "Georges Seurat"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 5,
+    "question": "Quel courant artistique est né en réaction à la Première Guerre mondiale et utilise l’absurde ?",
+    "correct_answer": "Le dadaïsme",
+    "incorrect_answers": ["Le futurisme", "Le réalisme", "L’expressionnisme"],
+    "difficulty": "hard"
+  },
+  {
+    "categoryId": 5,
+    "question": "Quel musée abrite la Mona Lisa ?",
+    "correct_answer": "Le Louvre",
+    "incorrect_answers": ["Le musée d’Orsay", "Le musée Picasso", "Le Centre Pompidou"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 5,
+    "question": "Qui a peint 'La Nuit étoilée' ?",
+    "correct_answer": "Vincent van Gogh",
+    "incorrect_answers": ["Claude Monet", "Pierre-Auguste Renoir", "Paul Gauguin"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 6,
+    "question": "Quel compositeur est connu pour la 'Neuvième Symphonie' ?",
+    "correct_answer": "Ludwig van Beethoven",
+    "incorrect_answers": ["Wolfgang Amadeus Mozart", "Johann Sebastian Bach", "Frédéric Chopin"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 6,
+    "question": "Quelle musique est associée à la danse traditionnelle argentine ?",
+    "correct_answer": "Le tango",
+    "incorrect_answers": ["La salsa", "La samba", "Le flamenco"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 6,
+    "question": "Dans quelle série télévisée trouve-t-on le personnage de Walter White ?",
+    "correct_answer": "Breaking Bad",
+    "incorrect_answers": ["The Wire", "Narcos", "Better Call Saul"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 6,
+    "question": "Quelle série télévisée se déroule dans le royaume fictif de Westeros ?",
+    "correct_answer": "Game of Thrones",
+    "incorrect_answers": ["The Witcher", "Vikings", "The Crown"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 6,
+    "question": "Quel est le nom de la ville où se déroule la série 'Stranger Things' ?",
+    "correct_answer": "Hawkins",
+    "incorrect_answers": ["Springfield", "Sunnydale", "Twin Peaks"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 6,
+    "question": "Dans la série 'Friends', comment s'appelle le café où les personnages se retrouvent souvent ?",
+    "correct_answer": "Central Perk",
+    "incorrect_answers": ["Monk's Cafe", "The Max", "Cafe Nervosa"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 6,
+    "question": "Quelle actrice joue le rôle de Daenerys Targaryen dans 'Game of Thrones' ?",
+    "correct_answer": "Emilia Clarke",
+    "incorrect_answers": ["Natalie Dormer", "Sophie Turner", "Lena Headey"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 6,
+    "question": "Quel est le métier de Gregory House dans la série 'Dr House' ?",
+    "correct_answer": "Médecin diagnosticien",
+    "incorrect_answers": ["Avocat", "Policier", "Professeur"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 6,
+    "question": "Dans 'The Simpsons', comment s'appelle le père de la famille ?",
+    "correct_answer": "Homer Simpson",
+    "incorrect_answers": ["Bart Simpson", "Ned Flanders", "Moe Szyslak"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 6,
+    "question": "Dans la série 'Sherlock', qui est le meilleur ami et partenaire de Sherlock Holmes ?",
+    "correct_answer": "John Watson",
+    "incorrect_answers": ["Mycroft Holmes", "James Moriarty", "Greg Lestrade"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 6,
+    "question": "Quelle série suit les enquêtes de la police dans la ville de Baltimore ?",
+    "correct_answer": "The Wire",
+    "incorrect_answers": ["Breaking Bad", "True Detective", "Dexter"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 6,
+    "question": "Dans quelle série télévisée trouve-t-on le personnage de Eleven ?",
+    "correct_answer": "Stranger Things",
+    "incorrect_answers": ["Dark", "The OA", "The X-Files"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 6,
+    "question": "Quel groupe a chanté 'Bohemian Rhapsody' ?",
+    "correct_answer": "Queen",
+    "incorrect_answers": ["The Beatles", "Pink Floyd", "Led Zeppelin"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 6,
+    "question": "Quel est l’instrument principal dans un quatuor à cordes ?",
+    "correct_answer": "Le violon",
+    "incorrect_answers": ["Le piano", "La guitare", "Le violoncelle"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 6,
+    "question": "Qui est considéré comme le 'Roi du Rock' ?",
+    "correct_answer": "Elvis Presley",
+    "incorrect_answers": ["Chuck Berry", "Buddy Holly", "Little Richard"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 6,
+    "question": "Quelle est la durée typique d’une symphonie classique ?",
+    "correct_answer": "20 à 40 minutes",
+    "incorrect_answers": ["5 à 10 minutes", "1 à 2 heures", "plus de 2 heures"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 6,
+    "question": "Quel compositeur est célèbre pour 'Le Lac des cygnes' ?",
+    "correct_answer": "Piotr Ilitch Tchaïkovski",
+    "incorrect_answers": ["Igor Stravinsky", "Sergei Rachmaninoff", "Johannes Brahms"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 6,
+    "question": "Quelle musique traditionnelle est originaire d’Irlande ?",
+    "correct_answer": "La musique celtique",
+    "incorrect_answers": ["La musique flamenco", "Le flamenco", "La musique klezmer"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 6,
+    "question": "Quelle forme musicale est caractérisée par l’improvisation dans le jazz ?",
+    "correct_answer": "Le solo",
+    "incorrect_answers": ["La symphonie", "Le concerto", "La sonate"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 6,
+    "question": "Qui est l’auteur de l’opéra 'La Flûte enchantée' ?",
+    "correct_answer": "Wolfgang Amadeus Mozart",
+    "incorrect_answers": ["Giacomo Puccini", "Richard Wagner", "Giuseppe Verdi"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 7,
+    "question": "Quelle est la capitale de l’Italie ?",
+    "correct_answer": "Rome",
+    "incorrect_answers": ["Milan", "Naples", "Venise"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 7,
+    "question": "Dans quel jeu vidéo peut-on trouver le personnage de Mario ?",
+    "correct_answer": "Super Mario Bros",
+    "incorrect_answers": ["Sonic the Hedgehog", "Donkey Kong", "Pac-Man"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 7,
+    "question": "Quel est le nom de la console de jeux vidéo développée par Sony en 1994 ?",
+    "correct_answer": "PlayStation",
+    "incorrect_answers": ["Xbox", "Nintendo 64", "Sega Genesis"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 7,
+    "question": "Dans 'The Legend of Zelda', quel est le nom de la princesse à sauver ?",
+    "correct_answer": "Zelda",
+    "incorrect_answers": ["Peach", "Daisy", "Samus"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 7,
+    "question": "Quel jeu de type 'battle royale' a popularisé le mode de jeu où 100 joueurs s'affrontent ?",
+    "correct_answer": "Fortnite",
+    "incorrect_answers": ["PUBG", "Apex Legends", "Call of Duty: Warzone"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 7,
+    "question": "Quel studio de développement est à l'origine du jeu 'Minecraft' ?",
+    "correct_answer": "Mojang Studios",
+    "incorrect_answers": ["Valve", "Epic Games", "Blizzard Entertainment"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 7,
+    "question": "Dans quel jeu vidéo incarne-t-on un chasseur de primes nommé Geralt de Riv ?",
+    "correct_answer": "The Witcher 3: Wild Hunt",
+    "incorrect_answers": ["Skyrim", "Dragon Age", "Dark Souls"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 7,
+    "question": "Quel est le nom de l'univers où se déroule la série de jeux 'Halo' ?",
+    "correct_answer": "L'univers du futur dans une guerre intergalactique",
+    "incorrect_answers": [
+      "Terre post-apocalyptique",
+      "Monde médiéval fantastique",
+      "Planète inconnue"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "categoryId": 7,
+    "question": "Quel est le jeu vidéo de stratégie en temps réel développé par Blizzard et sorti en 1998 ?",
+    "correct_answer": "StarCraft",
+    "incorrect_answers": ["Warcraft", "Command & Conquer", "Age of Empires"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 7,
+    "question": "Dans 'Pokémon', quel est le Pokémon emblématique de la première génération ?",
+    "correct_answer": "Pikachu",
+    "incorrect_answers": ["Bulbizarre", "Salamèche", "Carapuce"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 7,
+    "question": "Quel jeu vidéo indépendant a popularisé le genre 'metroidvania' avec son esthétique pixel art et son ambiance sombre ?",
+    "correct_answer": "Hollow Knight",
+    "incorrect_answers": ["Celeste", "Dead Cells", "Ori and the Blind Forest"],
+    "difficulty": "hard"
+  },
+  {
+    "categoryId": 7,
+    "question": "Qui a écrit 'Les Misérables' ?",
+    "correct_answer": "Victor Hugo",
+    "incorrect_answers": ["Émile Zola", "Honoré de Balzac", "Gustave Flaubert"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 7,
+    "question": "Quel est le personnage principal dans 'Le Petit Prince' ?",
+    "correct_answer": "Le Petit Prince",
+    "incorrect_answers": ["Le Renard", "Le Roi", "Le Businessman"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 7,
+    "question": "Qui est l’auteur de 'À la recherche du temps perdu' ?",
+    "correct_answer": "Marcel Proust",
+    "incorrect_answers": ["Albert Camus", "Jean-Paul Sartre", "André Gide"],
+    "difficulty": "hard"
+  },
+  {
+    "categoryId": 7,
+    "question": "Quel écrivain est célèbre pour ses romans policiers avec Sherlock Holmes ?",
+    "correct_answer": "Arthur Conan Doyle",
+    "incorrect_answers": ["Agatha Christie", "Edgar Allan Poe", "Raymond Chandler"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 7,
+    "question": "Quel roman commence par la phrase 'Tous les enfants, sauf un, grandissent' ?",
+    "correct_answer": "Peter Pan",
+    "incorrect_answers": ["Alice au pays des merveilles", "Le Magicien d’Oz", "Le Hobbit"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 7,
+    "question": "Qui a écrit 'Candide' ?",
+    "correct_answer": "Voltaire",
+    "incorrect_answers": ["Jean-Jacques Rousseau", "Denis Diderot", "Montesquieu"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 7,
+    "question": "Quel poète français est connu pour 'Les Fleurs du mal' ?",
+    "correct_answer": "Charles Baudelaire",
+    "incorrect_answers": ["Paul Verlaine", "Arthur Rimbaud", "Victor Hugo"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 7,
+    "question": "Quel roman dystopique a été écrit par George Orwell ?",
+    "correct_answer": "1984",
+    "incorrect_answers": ["Le Meilleur des mondes", "Fahrenheit 451", "La Servante écarlate"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 7,
+    "question": "Quel est le genre littéraire de 'Germinal' d’Émile Zola ?",
+    "correct_answer": "Le naturalisme",
+    "incorrect_answers": ["Le romantisme", "Le symbolisme", "Le réalisme"],
+    "difficulty": "hard"
+  },
+  {
+    "categoryId": 8,
+    "question": "Quelle planète est la plus proche du Soleil ?",
+    "correct_answer": "Mercure",
+    "incorrect_answers": ["Vénus", "Terre", "Mars"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 8,
+    "question": "Quel jeu de société consiste à construire des routes, des colonies et des villes sur une île ?",
+    "correct_answer": "Les Colons de Catane",
+    "incorrect_answers": ["Risk", "Monopoly", "Cluedo"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 8,
+    "question": "Dans le jeu 'Risk', quel est l'objectif principal ?",
+    "correct_answer": "Conquérir le monde",
+    "incorrect_answers": [
+      "Construire des routes",
+      "Collecter de l'argent",
+      "Répondre à des questions"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 8,
+    "question": "Quel jeu de société utilise des lettres pour former des mots sur un plateau ?",
+    "correct_answer": "Scrabble",
+    "incorrect_answers": ["Boggle", "Pictionary", "Trivial Pursuit"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 8,
+    "question": "Dans le jeu 'Cluedo', qui est le meurtrier dans la plupart des parties ?",
+    "correct_answer": "Cela dépend de la partie",
+    "incorrect_answers": ["Le Colonel Moutarde", "Mademoiselle Rose", "Professeur Violet"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 8,
+    "question": "Quel est le but du jeu de société 'Pandémie' ?",
+    "correct_answer": "Empêcher la propagation de maladies et sauver le monde",
+    "incorrect_answers": [
+      "Conquérir des territoires",
+      "Accumuler des richesses",
+      "Faire deviner des mots"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 8,
+    "question": "Quel jeu de société se joue avec des cartes numérotées et des couleurs, où il faut se débarrasser de toutes ses cartes ?",
+    "correct_answer": "Uno",
+    "incorrect_answers": ["Phase 10", "Poker", "Bridge"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 8,
+    "question": "Dans le jeu '7 Wonders', que devez-vous construire pour gagner ?",
+    "correct_answer": "Une civilisation",
+    "incorrect_answers": ["Une armée", "Un empire commercial", "Un château"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 8,
+    "question": "Quel est le jeu de société où les joueurs dessinent des images pour faire deviner des mots ?",
+    "correct_answer": "Pictionary",
+    "incorrect_answers": ["Dixit", "Time's Up", "Taboo"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 8,
+    "question": "Dans le jeu 'Dixit', quel type de cartes utilise-t-on ?",
+    "correct_answer": "Des cartes illustrées avec des images poétiques et abstraites",
+    "incorrect_answers": [
+      "Des cartes numérotées",
+      "Des cartes de questions",
+      "Des cartes de personnages"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 8,
+    "question": "Quel jeu de société stratégique se déroule dans un univers médiéval fantastique avec des alliances et des trahisons ?",
+    "correct_answer": "Les Aventuriers du Rail",
+    "incorrect_answers": ["Risk", "Carcassonne", "Small World"],
+    "difficulty": "hard"
+  },
+  {
+    "categoryId": 8,
+    "question": "Quel gaz est le plus abondant dans l’atmosphère terrestre ?",
+    "correct_answer": "L’azote",
+    "incorrect_answers": ["L’oxygène", "Le dioxyde de carbone", "L’hélium"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 8,
+    "question": "Quelle est la force qui maintient les planètes en orbite autour du Soleil ?",
+    "correct_answer": "La gravitation",
+    "incorrect_answers": ["L’électromagnétisme", "La force centrifuge", "La friction"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 8,
+    "question": "Quel est l’élément chimique dont le symbole est 'Fe' ?",
+    "correct_answer": "Le fer",
+    "incorrect_answers": ["Le fluor", "Le francium", "Le ferrare"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 8,
+    "question": "Quel organe humain produit l’insuline ?",
+    "correct_answer": "Le pancréas",
+    "incorrect_answers": ["Le foie", "Les reins", "La rate"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 8,
+    "question": "Quelle est la planète la plus grande du système solaire ?",
+    "correct_answer": "Jupiter",
+    "incorrect_answers": ["Saturne", "Neptune", "Uranus"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 8,
+    "question": "Quel est le nom du processus par lequel les plantes produisent leur nourriture ?",
+    "correct_answer": "La photosynthèse",
+    "incorrect_answers": ["La respiration", "La fermentation", "La transpiration"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 8,
+    "question": "Quel scientifique a proposé la théorie de la relativité ?",
+    "correct_answer": "Albert Einstein",
+    "incorrect_answers": ["Isaac Newton", "Galilée", "Nikola Tesla"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 8,
+    "question": "Quel est l’état de la matière qui a un volume défini mais pas de forme définie ?",
+    "correct_answer": "Le liquide",
+    "incorrect_answers": ["Le solide", "Le gaz", "Le plasma"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 8,
+    "question": "Quelle est la vitesse de la lumière dans le vide ?",
+    "correct_answer": "Environ 300 000 km/s",
+    "incorrect_answers": ["150 000 km/s", "1 000 km/s", "30 000 km/s"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 9,
+    "question": "Quel est le langage de programmation principalement utilisé pour le développement Android ?",
+    "correct_answer": "Java",
+    "incorrect_answers": ["Swift", "Python", "C#"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 9,
+    "question": "Quelle est la planète la plus proche du Soleil ?",
+    "correct_answer": "Mercure",
+    "incorrect_answers": ["Vénus", "Terre", "Mars"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 9,
+    "question": "Quel gaz est majoritairement présent dans l'atmosphère terrestre ?",
+    "correct_answer": "Azote",
+    "incorrect_answers": ["Oxygène", "Dioxyde de carbone", "Hydrogène"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 9,
+    "question": "Comment s'appelle le processus par lequel les plantes transforment la lumière en énergie ?",
+    "correct_answer": "Photosynthèse",
+    "incorrect_answers": ["Respiration", "Transpiration", "Fermentation"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 9,
+    "question": "Quel est l'organe principal du système circulatoire humain ?",
+    "correct_answer": "Le cœur",
+    "incorrect_answers": ["Le foie", "Le cerveau", "Les poumons"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 9,
+    "question": "Quel est le plus grand mammifère terrestre ?",
+    "correct_answer": "L’éléphant d’Afrique",
+    "incorrect_answers": ["La girafe", "L’hippopotame", "Le rhinocéros"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 9,
+    "question": "Quelle est la vitesse approximative de la lumière dans le vide ?",
+    "correct_answer": "300 000 km/s",
+    "incorrect_answers": ["150 000 km/s", "1 000 km/s", "30 000 km/s"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 9,
+    "question": "Quel élément chimique est représenté par le symbole 'Fe' ?",
+    "correct_answer": "Fer",
+    "incorrect_answers": ["Fluor", "Francium", "Fermium"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 9,
+    "question": "Quel scientifique a proposé la théorie de la relativité ?",
+    "correct_answer": "Albert Einstein",
+    "incorrect_answers": ["Isaac Newton", "Galilée", "Nikola Tesla"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 9,
+    "question": "Quelle structure dans la cellule est responsable de la production d'énergie ?",
+    "correct_answer": "La mitochondrie",
+    "incorrect_answers": ["Le noyau", "Le ribosome", "Le lysosome"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 9,
+    "question": "Quelle partie de l'œil contrôle la quantité de lumière entrant à l'intérieur ?",
+    "correct_answer": "L’iris",
+    "incorrect_answers": ["La rétine", "La cornée", "La pupille"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 9,
+    "question": "Qu’est-ce qu’une variable en programmation ?",
+    "correct_answer": "Un emplacement mémoire pour stocker une donnée",
+    "incorrect_answers": ["Un type de boucle", "Un opérateur logique", "Une fonction"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 9,
+    "question": "Quel langage est utilisé pour styliser des pages web ?",
+    "correct_answer": "CSS",
+    "incorrect_answers": ["HTML", "JavaScript", "PHP"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 9,
+    "question": "Que signifie 'API' ?",
+    "correct_answer": "Interface de programmation d’application",
+    "incorrect_answers": [
+      "Application Programming Internet",
+      "Automated Programming Interface",
+      "Advanced Programming Interaction"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 9,
+    "question": "Quelle structure conditionnelle est utilisée pour effectuer différentes actions selon différentes conditions ?",
+    "correct_answer": "La structure 'if-else'",
+    "incorrect_answers": ["La boucle 'for'", "La fonction", "La classe"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 9,
+    "question": "Qu’est-ce qu’une boucle 'for' ?",
+    "correct_answer": "Une structure qui répète un bloc de code un nombre défini de fois",
+    "incorrect_answers": ["Une fonction récursive", "Une condition", "Un opérateur"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 9,
+    "question": "Quel type de données stocke une valeur vrai ou faux ?",
+    "correct_answer": "Booléen",
+    "incorrect_answers": ["Entier", "Chaîne de caractères", "Flottant"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 9,
+    "question": "Que signifie 'HTML' ?",
+    "correct_answer": "HyperText Markup Language",
+    "incorrect_answers": [
+      "HyperText Markdown Language",
+      "HyperTransfer Markup Language",
+      "HighText Markup Language"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 9,
+    "question": "Qu’est-ce qu’un 'framework' en programmation ?",
+    "correct_answer": "Un ensemble d’outils et de bibliothèques pour faciliter le développement",
+    "incorrect_answers": [
+      "Un type de base de données",
+      "Un langage de programmation",
+      "Un système d’exploitation"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 9,
+    "question": "Quel langage est principalement utilisé pour le développement côté serveur ?",
+    "correct_answer": "JavaScript avec Node.js",
+    "incorrect_answers": ["HTML", "CSS", "Swift"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 10,
+    "question": "Quel est l’animal terrestre le plus rapide ?",
+    "correct_answer": "Le guépard",
+    "incorrect_answers": ["Le lion", "Le léopard", "Le tigre"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 10,
+    "question": "Combien de pattes a une araignée ?",
+    "correct_answer": "8",
+    "incorrect_answers": ["6", "10", "12"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 10,
+    "question": "Que signifie l'acronyme 'HTML' ?",
+    "correct_answer": "HyperText Markup Language",
+    "incorrect_answers": [
+      "HyperText Markdown Language",
+      "Hyperlink Markup Language",
+      "HyperText Machine Language"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 10,
+    "question": "Quelle entreprise a créé le système d'exploitation Windows ?",
+    "correct_answer": "Microsoft",
+    "incorrect_answers": ["Apple", "IBM", "Google"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 10,
+    "question": "Quel langage de programmation est principalement utilisé pour le développement d'applications Android ?",
+    "correct_answer": "Java",
+    "incorrect_answers": ["Swift", "C++", "Python"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 10,
+    "question": "Que signifie 'CPU' en informatique ?",
+    "correct_answer": "Central Processing Unit",
+    "incorrect_answers": [
+      "Computer Personal Unit",
+      "Central Program Unit",
+      "Control Processing Unit"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 10,
+    "question": "Quel protocole est utilisé pour sécuriser les communications sur Internet ?",
+    "correct_answer": "HTTPS",
+    "incorrect_answers": ["FTP", "HTTP", "SMTP"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 10,
+    "question": "En programmation, qu'est-ce qu'une 'boucle' ?",
+    "correct_answer": "Une structure qui répète un bloc de code plusieurs fois",
+    "incorrect_answers": [
+      "Une fonction qui retourne une valeur",
+      "Une variable temporaire",
+      "Un type de données"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 10,
+    "question": "Quel est le nom du premier ordinateur électronique programmable ?",
+    "correct_answer": "ENIAC",
+    "incorrect_answers": ["UNIVAC", "IBM PC", "Colossus"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 10,
+    "question": "Quelle est la fonction principale d’un 'firewall' en informatique ?",
+    "correct_answer": "Protéger un réseau contre les accès non autorisés",
+    "incorrect_answers": [
+      "Augmenter la vitesse de connexion",
+      "Stocker des données",
+      "Optimiser les performances du processeur"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 10,
+    "question": "Quel type de logiciel est un antivirus ?",
+    "correct_answer": "Un logiciel de sécurité",
+    "incorrect_answers": [
+      "Un logiciel de traitement de texte",
+      "Un logiciel de montage vidéo",
+      "Un logiciel de développement"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 10,
+    "question": "Dans quel langage est principalement écrit le noyau Linux ?",
+    "correct_answer": "C",
+    "incorrect_answers": ["Python", "Java", "Assembly"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 10,
+    "question": "Quel mammifère est capable de voler ?",
+    "correct_answer": "La chauve-souris",
+    "incorrect_answers": ["L’écureuil volant", "Le colibri", "La libellule"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 10,
+    "question": "Quelle est la durée moyenne de vie d’une tortue géante des Galápagos ?",
+    "correct_answer": "Plus de 100 ans",
+    "incorrect_answers": ["30 ans", "50 ans", "70 ans"],
+    "difficulty": "hard"
+  },
+  {
+    "categoryId": 10,
+    "question": "Quel animal est connu pour sa mémoire exceptionnelle ?",
+    "correct_answer": "L’éléphant",
+    "incorrect_answers": ["Le dauphin", "Le chien", "Le singe"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 10,
+    "question": "Quel insecte produit du miel ?",
+    "correct_answer": "L’abeille",
+    "incorrect_answers": ["La fourmi", "Le bourdon", "Le papillon"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 10,
+    "question": "Quel est le plus grand mammifère terrestre ?",
+    "correct_answer": "L’éléphant d’Afrique",
+    "incorrect_answers": ["La girafe", "L’hippopotame", "Le rhinocéros"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 10,
+    "question": "Quel animal marin est le plus grand ?",
+    "correct_answer": "La baleine bleue",
+    "incorrect_answers": ["Le requin blanc", "Le calmar géant", "Le dauphin"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 10,
+    "question": "Quel est le cri du lion ?",
+    "correct_answer": "Le rugissement",
+    "incorrect_answers": ["Le grognement", "Le miaulement", "Le sifflement"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 10,
+    "question": "Quel reptile est connu pour changer de couleur ?",
+    "correct_answer": "Le caméléon",
+    "incorrect_answers": ["Le lézard", "La grenouille", "Le serpent"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 3,
+    "question": "Quelle est la formule chimique de l'eau ?",
+    "correct_answer": "H2O",
+    "incorrect_answers": ["CO2", "O2", "NaCl"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 3,
+    "question": "Quel gaz est essentiel à la respiration des êtres vivants ?",
+    "correct_answer": "L'oxygène",
+    "incorrect_answers": ["Le dioxyde de carbone", "L'azote", "L'hydrogène"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 3,
+    "question": "Quelle planète est la plus proche du Soleil ?",
+    "correct_answer": "Mercure",
+    "incorrect_answers": ["Vénus", "Mars", "Jupiter"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 3,
+    "question": "Quel est l'organe principal du système circulatoire humain ?",
+    "correct_answer": "Le cœur",
+    "incorrect_answers": ["Le foie", "Le cerveau", "Les poumons"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 3,
+    "question": "Quel est l'élément chimique de numéro atomique 6 ?",
+    "correct_answer": "Le carbone",
+    "incorrect_answers": ["L'oxygène", "L'hydrogène", "L'azote"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 4,
+    "question": "En quelle année a eu lieu la Révolution française ?",
+    "correct_answer": "1789",
+    "incorrect_answers": ["1776", "1815", "1799"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 4,
+    "question": "Qui était le premier empereur de Rome ?",
+    "correct_answer": "Auguste",
+    "incorrect_answers": ["Néron", "Jules César", "Caligula"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 4,
+    "question": "Quelle guerre a opposé les Nordistes et les Sudistes aux États-Unis ?",
+    "correct_answer": "La guerre de Sécession",
+    "incorrect_answers": [
+      "La guerre d'indépendance",
+      "La guerre du Vietnam",
+      "La Première Guerre mondiale"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 4,
+    "question": "Qui a découvert l'Amérique en 1492 ?",
+    "correct_answer": "Christophe Colomb",
+    "incorrect_answers": ["Vasco de Gama", "Ferdinand Magellan", "Marco Polo"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 4,
+    "question": "Quel roi a été surnommé 'le Roi Soleil' ?",
+    "correct_answer": "Louis XIV",
+    "incorrect_answers": ["Louis XVI", "Charles X", "Henri IV"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 5,
+    "question": "Quelle est la capitale de la France ?",
+    "correct_answer": "Paris",
+    "incorrect_answers": ["Lyon", "Marseille", "Toulouse"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 5,
+    "question": "Quel est le plus long fleuve du monde ?",
+    "correct_answer": "Le Nil",
+    "incorrect_answers": ["L'Amazone", "Le Mississippi", "Le Yangtsé"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 5,
+    "question": "Sur quel continent se trouve le Sahara ?",
+    "correct_answer": "L'Afrique",
+    "incorrect_answers": ["L'Asie", "L'Australie", "L'Amérique du Sud"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 5,
+    "question": "Quel pays est le plus peuplé du monde ?",
+    "correct_answer": "La Chine",
+    "incorrect_answers": ["L'Inde", "Les États-Unis", "La Russie"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 5,
+    "question": "Quelle montagne est la plus haute du monde ?",
+    "correct_answer": "L'Everest",
+    "incorrect_answers": ["Le K2", "Le Mont Blanc", "Le Kilimandjaro"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 6,
+    "question": "Qui a réalisé le film 'Titanic' ?",
+    "correct_answer": "James Cameron",
+    "incorrect_answers": ["Steven Spielberg", "Christopher Nolan", "Quentin Tarantino"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 6,
+    "question": "Quel super-héros utilise un bouclier comme arme principale ?",
+    "correct_answer": "Captain America",
+    "incorrect_answers": ["Iron Man", "Thor", "Hulk"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 6,
+    "question": "Dans quel film trouve-t-on le personnage de 'Forrest Gump' ?",
+    "correct_answer": "Forrest Gump",
+    "incorrect_answers": ["Le Terminal", "Big", "Apollo 13"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 6,
+    "question": "Quel groupe a chanté 'Bohemian Rhapsody' ?",
+    "correct_answer": "Queen",
+    "incorrect_answers": ["The Beatles", "Pink Floyd", "Led Zeppelin"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 6,
+    "question": "Dans quelle série télévisée trouve-t-on le personnage Walter White ?",
+    "correct_answer": "Breaking Bad",
+    "incorrect_answers": ["Better Call Saul", "The Wire", "Narcos"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 7,
+    "question": "Combien de joueurs y a-t-il dans une équipe de football sur le terrain ?",
+    "correct_answer": "11",
+    "incorrect_answers": ["10", "9", "12"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 7,
+    "question": "Quel pays a remporté la Coupe du Monde de football en 2018 ?",
+    "correct_answer": "La France",
+    "incorrect_answers": ["Le Brésil", "L'Allemagne", "L'Argentine"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 7,
+    "question": "Dans quel sport utilise-t-on une raquette et un volant ?",
+    "correct_answer": "Le badminton",
+    "incorrect_answers": ["Le tennis", "Le squash", "Le ping-pong"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 7,
+    "question": "Quel est le sport le plus populaire aux États-Unis ?",
+    "correct_answer": "Le football américain",
+    "incorrect_answers": ["Le baseball", "Le basketball", "Le soccer"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 7,
+    "question": "Qui est considéré comme le meilleur joueur de tennis de tous les temps ?",
+    "correct_answer": "Roger Federer",
+    "incorrect_answers": ["Rafael Nadal", "Novak Djokovic", "Pete Sampras"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 8,
+    "question": "Qui a peint la Joconde ?",
+    "correct_answer": "Léonard de Vinci",
+    "incorrect_answers": ["Michel-Ange", "Raphaël", "Donatello"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 8,
+    "question": "Quel auteur a écrit 'Les Misérables' ?",
+    "correct_answer": "Victor Hugo",
+    "incorrect_answers": ["Émile Zola", "Alexandre Dumas", "Gustave Flaubert"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 8,
+    "question": "Quel est le mouvement artistique associé à Pablo Picasso ?",
+    "correct_answer": "Le cubisme",
+    "incorrect_answers": ["Le surréalisme", "L'impressionnisme", "Le réalisme"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 8,
+    "question": "Qui a écrit 'Roméo et Juliette' ?",
+    "correct_answer": "William Shakespeare",
+    "incorrect_answers": ["Charles Dickens", "Jane Austen", "Mark Twain"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 8,
+    "question": "Quel poète français est connu pour 'Les Fleurs du mal' ?",
+    "correct_answer": "Charles Baudelaire",
+    "incorrect_answers": ["Arthur Rimbaud", "Paul Verlaine", "Victor Hugo"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 9,
+    "question": "Quel langage est principalement utilisé pour le développement web côté client ?",
+    "correct_answer": "JavaScript",
+    "incorrect_answers": ["Python", "Java", "C++"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 9,
+    "question": "Que signifie 'HTML' ?",
+    "correct_answer": "HyperText Markup Language",
+    "incorrect_answers": [
+      "Hyperlink and Text Markup Language",
+      "Home Tool Markup Language",
+      "Hyper Trainer Marking Language"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 9,
+    "question": "Quel système d'exploitation est développé par Apple pour ses ordinateurs ?",
+    "correct_answer": "macOS",
+    "incorrect_answers": ["Windows", "Linux", "iOS"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 9,
+    "question": "Que signifie 'CPU' dans un ordinateur ?",
+    "correct_answer": "Central Processing Unit",
+    "incorrect_answers": [
+      "Computer Personal Unit",
+      "Central Performance Unit",
+      "Control Processing Unit"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 9,
+    "question": "Quel est le nom du premier navigateur web populaire ?",
+    "correct_answer": "Netscape Navigator",
+    "incorrect_answers": ["Internet Explorer", "Mozilla Firefox", "Google Chrome"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 10,
+    "question": "Quel insecte produit du miel ?",
+    "correct_answer": "L’abeille",
+    "incorrect_answers": ["La fourmi", "Le bourdon", "Le papillon"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 10,
+    "question": "Quel est le plus grand mammifère terrestre ?",
+    "correct_answer": "L’éléphant d’Afrique",
+    "incorrect_answers": ["La girafe", "L’hippopotame", "Le rhinocéros"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 10,
+    "question": "Quel animal marin est le plus grand ?",
+    "correct_answer": "La baleine bleue",
+    "incorrect_answers": ["Le requin blanc", "Le calmar géant", "Le dauphin"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 10,
+    "question": "Quel est le cri du lion ?",
+    "correct_answer": "Le rugissement",
+    "incorrect_answers": ["Le grognement", "Le miaulement", "Le sifflement"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 10,
+    "question": "Quel reptile est connu pour changer de couleur ?",
+    "correct_answer": "Le caméléon",
+    "incorrect_answers": ["Le lézard", "La grenouille", "Le serpent"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 11,
+    "question": "Quelle est la valeur de π (pi) approximativement ?",
+    "correct_answer": "3,14",
+    "incorrect_answers": ["2,17", "3,41", "3,41"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 11,
+    "question": "Combien y a-t-il de côtés dans un hexagone ?",
+    "correct_answer": "6",
+    "incorrect_answers": ["5", "7", "8"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 11,
+    "question": "Quel est le résultat de 7 × 8 ?",
+    "correct_answer": "56",
+    "incorrect_answers": ["48", "54", "64"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 11,
+    "question": "Comment appelle-t-on un triangle avec deux côtés égaux ?",
+    "correct_answer": "Triangle isocèle",
+    "incorrect_answers": ["Triangle équilatéral", "Triangle scalène", "Triangle rectangle"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 11,
+    "question": "Quelle est la formule pour calculer l'aire d'un cercle ?",
+    "correct_answer": "π × rayon²",
+    "incorrect_answers": ["2 × π × rayon", "π × diamètre", "rayon × diamètre"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 11,
+    "question": "Quel est le résultat de la dérivée de f(x) = x² ?",
+    "correct_answer": "2x",
+    "incorrect_answers": ["x", "x²", "2"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 11,
+    "question": "Quelle est la valeur de e (nombre d'Euler) approximativement ?",
+    "correct_answer": "2,718",
+    "incorrect_answers": ["3,142", "1,618", "1,414"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 11,
+    "question": "Qu’est-ce qu’un nombre premier ?",
+    "correct_answer": "Un nombre divisible uniquement par 1 et lui-même",
+    "incorrect_answers": ["Un nombre pair", "Un nombre divisible par 2 et 3", "Un nombre négatif"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 11,
+    "question": "Quelle est la somme des angles d’un triangle ?",
+    "correct_answer": "180 degrés",
+    "incorrect_answers": ["90 degrés", "360 degrés", "270 degrés"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 11,
+    "question": "Quelle est la solution de l'équation x² - 4 = 0 ?",
+    "correct_answer": "x = 2 ou x = -2",
+    "incorrect_answers": ["x = 4", "x = 0", "x = -4"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 11,
+    "question": "Quelle est la valeur de π (pi) arrondie à deux décimales ?",
+    "correct_answer": "3,14",
+    "incorrect_answers": ["3,15", "3,12", "3,18"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 11,
+    "question": "Quel mathématicien a développé la théorie des ensembles ?",
+    "correct_answer": "Georg Cantor",
+    "incorrect_answers": ["Isaac Newton", "Carl Gauss", "Leonhard Euler"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 11,
+    "question": "Quelle est la solution générale de l'équation différentielle y' = ky ?",
+    "correct_answer": "y = Ce^(kx)",
+    "incorrect_answers": ["y = Ckx", "y = kx + C", "y = C/x"],
+    "difficulty": "hard"
+  },
+  {
+    "categoryId": 12,
+    "question": "Qui est le dieu grec du ciel et roi des dieux ?",
+    "correct_answer": "Zeus",
+    "incorrect_answers": ["Hadès", "Poséidon", "Apollon"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 12,
+    "question": "Dans la mythologie nordique, quel est le nom du marteau de Thor ?",
+    "correct_answer": "Mjölnir",
+    "incorrect_answers": ["Gungnir", "Brisingamen", "Skidbladnir"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 12,
+    "question": "Quelle créature mythologique est connue pour avoir la tête d’un lion et le corps d’un homme ?",
+    "correct_answer": "Le Sphinx",
+    "incorrect_answers": ["Le Minotaure", "La Chimère", "Le Griffon"],
+    "difficulty": "hard"
+  },
+  {
+    "categoryId": 13,
+    "question": "Combien de joueurs y a-t-il dans une équipe de football sur le terrain ?",
+    "correct_answer": "11",
+    "incorrect_answers": ["10", "12", "9"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 13,
+    "question": "Quel pays a remporté la Coupe du Monde de football en 2018 ?",
+    "correct_answer": "France",
+    "incorrect_answers": ["Brésil", "Allemagne", "Argentine"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 13,
+    "question": "Quelle est la distance officielle d’un marathon ?",
+    "correct_answer": "42,195 km",
+    "incorrect_answers": ["40 km", "41,5 km", "43 km"],
+    "difficulty": "hard"
+  },
+  {
+    "categoryId": 14,
+    "question": "Quelle est la capitale de l’Espagne ?",
+    "correct_answer": "Madrid",
+    "incorrect_answers": ["Barcelone", "Valence", "Séville"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 14,
+    "question": "Quel fleuve traverse Paris ?",
+    "correct_answer": "La Seine",
+    "incorrect_answers": ["La Loire", "Le Rhône", "La Garonne"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 14,
+    "question": "Quel est le plus grand désert chaud du monde ?",
+    "correct_answer": "Le Sahara",
+    "incorrect_answers": ["Le Kalahari", "Le Gobi", "Le désert d’Arabie"],
+    "difficulty": "hard"
+  },
+  {
+    "categoryId": 15,
+    "question": "En quelle année a commencé la Révolution française ?",
+    "correct_answer": "1789",
+    "incorrect_answers": ["1776", "1799", "1804"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 15,
+    "question": "Qui était le premier empereur romain ?",
+    "correct_answer": "Auguste",
+    "incorrect_answers": ["Néron", "Jules César", "Caligula"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 15,
+    "question": "Quel événement a déclenché la Première Guerre mondiale ?",
+    "correct_answer": "L’assassinat de l’archiduc François-Ferdinand",
+    "incorrect_answers": [
+      "La prise de la Bastille",
+      "La révolution russe",
+      "Le traité de Versailles"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 15,
+    "question": "Qui a découvert l’Amérique en 1492 ?",
+    "correct_answer": "Christophe Colomb",
+    "incorrect_answers": ["Vasco de Gama", "Marco Polo", "Ferdinand Magellan"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 15,
+    "question": "Quel roi de France a été guillotiné en 1793 ?",
+    "correct_answer": "Louis XVI",
+    "incorrect_answers": ["Louis XIV", "Napoléon Bonaparte", "Henri IV"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 15,
+    "question": "Quel empire a construit la Grande Muraille de Chine ?",
+    "correct_answer": "L’Empire Qin",
+    "incorrect_answers": ["L’Empire Han", "L’Empire Mongol", "L’Empire Ming"],
+    "difficulty": "hard"
+  },
+  {
+    "categoryId": 15,
+    "question": "Qui était la reine d’Angleterre pendant la conquête normande de 1066 ?",
+    "correct_answer": "Edith de Wessex",
+    "incorrect_answers": ["Élisabeth Ière", "Marie Tudor", "Victoria"],
+    "difficulty": "hard"
+  },
+  {
+    "categoryId": 15,
+    "question": "Quelle guerre a opposé les Nordistes et les Sudistes aux États-Unis ?",
+    "correct_answer": "La guerre de Sécession",
+    "incorrect_answers": ["La guerre d’Indépendance", "La guerre du Vietnam", "La guerre froide"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 15,
+    "question": "Quel traité a mis fin à la Première Guerre mondiale ?",
+    "correct_answer": "Le traité de Versailles",
+    "incorrect_answers": ["Le traité de Paris", "Le traité de Tordesillas", "Le traité de Rome"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 15,
+    "question": "Quel président américain a aboli l’esclavage ?",
+    "correct_answer": "Abraham Lincoln",
+    "incorrect_answers": ["George Washington", "Thomas Jefferson", "Theodore Roosevelt"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 16,
+    "question": "Qui est considéré comme le principal auteur de la Déclaration des Droits de l’Homme et du Citoyen en France ?",
+    "correct_answer": "Marquis de Lafayette",
+    "incorrect_answers": ["Maximilien Robespierre", "Napoléon Bonaparte", "Jean-Jacques Rousseau"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 16,
+    "question": "Quel système politique est basé sur la séparation des pouvoirs entre exécutif, législatif et judiciaire ?",
+    "correct_answer": "La démocratie",
+    "incorrect_answers": ["La monarchie absolue", "Le communisme", "La dictature"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 16,
+    "question": "Quel pays est le plus ancien exemple de république démocratique au monde ?",
+    "correct_answer": "Athènes (Grèce antique)",
+    "incorrect_answers": ["Rome", "France", "États-Unis"],
+    "difficulty": "hard"
+  },
+  {
+    "categoryId": 16,
+    "question": "Quel est le rôle principal d’un Premier ministre dans un régime parlementaire ?",
+    "correct_answer": "Diriger le gouvernement",
+    "incorrect_answers": ["Présider l’Assemblée", "Faire les lois", "Gérer la justice"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 16,
+    "question": "Qui fut le premier président de la Ve République française ?",
+    "correct_answer": "Charles de Gaulle",
+    "incorrect_answers": ["Georges Pompidou", "François Mitterrand", "Valéry Giscard d’Estaing"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 16,
+    "question": "Quel pays est connu pour avoir une monarchie constitutionnelle avec un parlement élu ?",
+    "correct_answer": "Le Royaume-Uni",
+    "incorrect_answers": ["La Corée du Nord", "La Russie", "La Chine"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 16,
+    "question": "Qu’est-ce que le suffrage universel ?",
+    "correct_answer": "Le droit de vote pour tous les citoyens majeurs",
+    "incorrect_answers": [
+      "Le vote réservé aux hommes",
+      "Le vote par classes sociales",
+      "Le vote indirect"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 16,
+    "question": "Quelle organisation internationale a été créée après la Seconde Guerre mondiale pour maintenir la paix ?",
+    "correct_answer": "L’Organisation des Nations Unies (ONU)",
+    "incorrect_answers": ["L’Union Européenne", "L’OTAN", "Le FMI"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 16,
+    "question": "Quel philosophe a écrit 'Le Contrat social', fondement de la démocratie moderne ?",
+    "correct_answer": "Jean-Jacques Rousseau",
+    "incorrect_answers": ["Voltaire", "Montesquieu", "John Locke"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 16,
+    "question": "Quelle institution française est chargée de vérifier la constitutionnalité des lois ?",
+    "correct_answer": "Le Conseil constitutionnel",
+    "incorrect_answers": ["Le Sénat", "Le Parlement", "Le Conseil d’État"],
+    "difficulty": "hard"
+  },
+  {
+    "categoryId": 17,
+    "question": "Quel peintre est célèbre pour avoir coupé une partie de son oreille ?",
+    "correct_answer": "Vincent van Gogh",
+    "incorrect_answers": ["Pablo Picasso", "Claude Monet", "Salvador Dalí"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 17,
+    "question": "Quel mouvement artistique est caractérisé par l’usage de la lumière et des couleurs vives, et a été initié par Claude Monet ?",
+    "correct_answer": "L’impressionnisme",
+    "incorrect_answers": ["Le cubisme", "Le surréalisme", "Le romantisme"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 17,
+    "question": "Quelle est la technique artistique qui consiste à peindre sur du plâtre humide ?",
+    "correct_answer": "La fresque",
+    "incorrect_answers": ["La mosaïque", "L’aquarelle", "La gravure"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 17,
+    "question": "Qui a sculpté la statue célèbre du 'David' ?",
+    "correct_answer": "Michel-Ange",
+    "incorrect_answers": ["Donatello", "Léonard de Vinci", "Auguste Rodin"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 17,
+    "question": "Quel artiste est associé au mouvement cubiste ?",
+    "correct_answer": "Pablo Picasso",
+    "incorrect_answers": ["Henri Matisse", "Paul Cézanne", "Jackson Pollock"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 17,
+    "question": "Quel tableau de Léonard de Vinci est célèbre pour son sourire mystérieux ?",
+    "correct_answer": "La Joconde",
+    "incorrect_answers": ["Le Dernier Souper", "L’Annonciation", "L’Homme de Vitruve"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 17,
+    "question": "Quelle technique artistique utilise des petites touches de couleur pour créer une image ?",
+    "correct_answer": "Le pointillisme",
+    "incorrect_answers": ["Le surréalisme", "L’impressionnisme", "Le réalisme"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 17,
+    "question": "Quel artiste est connu pour ses 'Montres molles' ?",
+    "correct_answer": "Salvador Dalí",
+    "incorrect_answers": ["René Magritte", "Joan Miró", "Marc Chagall"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 17,
+    "question": "Quel courant artistique privilégie l’expression des émotions plutôt que la représentation fidèle de la réalité ?",
+    "correct_answer": "L’expressionnisme",
+    "incorrect_answers": ["Le réalisme", "Le classicisme", "Le baroque"],
+    "difficulty": "hard"
+  },
+  {
+    "categoryId": 17,
+    "question": "Quel artiste français est célèbre pour ses sculptures monumentales comme 'Le Penseur' ?",
+    "correct_answer": "Auguste Rodin",
+    "incorrect_answers": ["Camille Claudel", "Antoine Bourdelle", "Alfred Boucher"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 18,
+    "question": "Quelle actrice française a remporté un Oscar pour son rôle dans 'La Vie en Rose' ?",
+    "correct_answer": "Marion Cotillard",
+    "incorrect_answers": ["Audrey Tautou", "Léa Seydoux", "Isabelle Huppert"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 18,
+    "question": "Quel chanteur est surnommé 'The King of Pop' ?",
+    "correct_answer": "Michael Jackson",
+    "incorrect_answers": ["Elvis Presley", "Prince", "Stevie Wonder"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 18,
+    "question": "Qui est le réalisateur du film 'Titanic' ?",
+    "correct_answer": "James Cameron",
+    "incorrect_answers": ["Steven Spielberg", "Martin Scorsese", "Christopher Nolan"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 18,
+    "question": "Quel acteur incarne le rôle principal dans la série 'Breaking Bad' ?",
+    "correct_answer": "Bryan Cranston",
+    "incorrect_answers": ["Aaron Paul", "Dean Norris", "Bob Odenkirk"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 18,
+    "question": "Quelle célèbre chanteuse est aussi connue sous le nom de Stefani Joanne Angelina Germanotta ?",
+    "correct_answer": "Lady Gaga",
+    "incorrect_answers": ["Madonna", "Beyoncé", "Rihanna"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 18,
+    "question": "Quel athlète est surnommé 'La légende du basketball' ?",
+    "correct_answer": "Michael Jordan",
+    "incorrect_answers": ["LeBron James", "Kobe Bryant", "Shaquille O'Neal"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 18,
+    "question": "Qui est la première femme à avoir remporté un prix Nobel ?",
+    "correct_answer": "Marie Curie",
+    "incorrect_answers": ["Rosalind Franklin", "Ada Lovelace", "Dorothy Hodgkin"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 18,
+    "question": "Quel acteur a joué le rôle de Jack Sparrow dans la saga 'Pirates des Caraïbes' ?",
+    "correct_answer": "Johnny Depp",
+    "incorrect_answers": ["Orlando Bloom", "Geoffrey Rush", "Ian McShane"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 18,
+    "question": "Quel est le nom de scène de la chanteuse et actrice américaine née Stefani Germanotta ?",
+    "correct_answer": "Lady Gaga",
+    "incorrect_answers": ["Katy Perry", "Ariana Grande", "Billie Eilish"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 18,
+    "question": "Quelle actrice française a joué dans le film 'Amélie Poulain' ?",
+    "correct_answer": "Audrey Tautou",
+    "incorrect_answers": ["Marion Cotillard", "Isabelle Adjani", "Sophie Marceau"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 19,
+    "question": "Quel est le plus grand mammifère terrestre ?",
+    "correct_answer": "L’éléphant d’Afrique",
+    "incorrect_answers": ["Le rhinocéros blanc", "L’hippopotame", "La girafe"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 19,
+    "question": "Combien de pattes possède une araignée ?",
+    "correct_answer": "8",
+    "incorrect_answers": ["6", "10", "12"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 19,
+    "question": "Quelle est la durée de vie moyenne d’une abeille ouvrière ?",
+    "correct_answer": "5 à 6 semaines",
+    "incorrect_answers": ["1 an", "3 mois", "2 semaines"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 19,
+    "question": "Quel animal est connu pour sa capacité à changer de couleur pour se camoufler ?",
+    "correct_answer": "Le caméléon",
+    "incorrect_answers": ["Le poulpe", "Le lézard", "La pieuvre"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 19,
+    "question": "Quel est l’oiseau le plus rapide en vol ?",
+    "correct_answer": "Le faucon pèlerin",
+    "incorrect_answers": ["L’aigle royal", "Le vautour", "Le martin-pêcheur"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 19,
+    "question": "Quel mammifère marin est connu pour ses chants complexes ?",
+    "correct_answer": "La baleine à bosse",
+    "incorrect_answers": ["Le dauphin", "Le narval", "Le cachalot"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 19,
+    "question": "Quel animal est surnommé le 'roi de la jungle' ?",
+    "correct_answer": "Le lion",
+    "incorrect_answers": ["Le tigre", "L’éléphant", "Le léopard"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 19,
+    "question": "Combien de cœurs possède une pieuvre ?",
+    "correct_answer": "3",
+    "incorrect_answers": ["1", "2", "4"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 19,
+    "question": "Quel est le plus grand reptile vivant aujourd’hui ?",
+    "correct_answer": "Le crocodile marin",
+    "incorrect_answers": ["Le dragon de Komodo", "Le python réticulé", "La tortue géante"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 19,
+    "question": "Quelle espèce de singe est connue pour utiliser des outils dans la nature ?",
+    "correct_answer": "Le chimpanzé",
+    "incorrect_answers": ["Le gorille", "Le babouin", "Le macaque"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 20,
+    "question": "Quel est le constructeur automobile allemand connu pour ses modèles 'Golf' et 'Passat' ?",
+    "correct_answer": "Volkswagen",
+    "incorrect_answers": ["BMW", "Audi", "Mercedes-Benz"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 20,
+    "question": "Quelle est la principale source d’énergie utilisée par les voitures électriques ?",
+    "correct_answer": "Batteries lithium-ion",
+    "incorrect_answers": ["Essence", "Hydrogène", "Diesel"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 20,
+    "question": "En quelle année la première voiture a-t-elle été brevetée par Karl Benz ?",
+    "correct_answer": "1886",
+    "incorrect_answers": ["1901", "1875", "1892"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 20,
+    "question": "Quel est le nom du circuit automobile situé en Italie, célèbre pour le Grand Prix de Formule 1 ?",
+    "correct_answer": "Monza",
+    "incorrect_answers": ["Silverstone", "Spa-Francorchamps", "Suzuka"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 20,
+    "question": "Quelle marque automobile américaine produit la gamme 'Mustang' ?",
+    "correct_answer": "Ford",
+    "incorrect_answers": ["Chevrolet", "Dodge", "Tesla"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 20,
+    "question": "Quelle technologie permet de réduire la pollution des moteurs diesel ?",
+    "correct_answer": "Filtre à particules (FAP)",
+    "incorrect_answers": ["Catalyseur", "Injection directe", "Turbo"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 20,
+    "question": "Quel est le véhicule terrestre le plus rapide jamais enregistré ?",
+    "correct_answer": "Thrust SSC",
+    "incorrect_answers": ["Bugatti Veyron", "Hennessey Venom GT", "Koenigsegg Agera RS"],
+    "difficulty": "hard"
+  },
+  {
+    "categoryId": 20,
+    "question": "Quel constructeur automobile japonais est célèbre pour ses modèles 'Civic' et 'Accord' ?",
+    "correct_answer": "Honda",
+    "incorrect_answers": ["Toyota", "Nissan", "Mazda"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 20,
+    "question": "Qu’est-ce qu’un ‘ABS’ dans une voiture ?",
+    "correct_answer": "Système antiblocage des roues",
+    "incorrect_answers": [
+      "Système d’airbag",
+      "Système de navigation",
+      "Système de traction intégrale"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 20,
+    "question": "Quelle est la marque de la célèbre voiture de sport appelée ‘911’ ?",
+    "correct_answer": "Porsche",
+    "incorrect_answers": ["Ferrari", "Lamborghini", "Maserati"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 21,
+    "question": "Quel est le nom du célèbre détective dans les bandes dessinées créées par Sir Arthur Conan Doyle ?",
+    "correct_answer": "Sherlock Holmes",
+    "incorrect_answers": ["Hercule Poirot", "Tintin", "Largo Winch"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 21,
+    "question": "Quel super-héros Marvel est connu sous le nom de Peter Parker ?",
+    "correct_answer": "Spider-Man",
+    "incorrect_answers": ["Iron Man", "Captain America", "Thor"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 21,
+    "question": "Dans quelle ville fictive Batman combat-il le crime ?",
+    "correct_answer": "Gotham City",
+    "incorrect_answers": ["Metropolis", "Central City", "Star City"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 21,
+    "question": "Quel auteur belge a créé la bande dessinée 'Les Aventures de Tintin' ?",
+    "correct_answer": "Hergé",
+    "incorrect_answers": ["Franquin", "Morris", "Peyo"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 21,
+    "question": "Quel est le nom du village où vivent Astérix et Obélix ?",
+    "correct_answer": "Un village gaulois résistant à Rome",
+    "incorrect_answers": ["Lutèce", "Roma", "Massilia"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 21,
+    "question": "Quel personnage de bande dessinée porte un costume rouge et bleu avec des toiles d’araignée ?",
+    "correct_answer": "Spider-Man",
+    "incorrect_answers": ["Superman", "Batman", "Flash"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 21,
+    "question": "Dans la série ‘X-Men’, quel pouvoir possède Wolverine ?",
+    "correct_answer": "Guérison rapide et griffes rétractables",
+    "incorrect_answers": ["Voler", "Télépathie", "Contrôle du temps"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 21,
+    "question": "Qui est le créateur de la bande dessinée française ‘Tintin’ ?",
+    "correct_answer": "Hergé",
+    "incorrect_answers": ["René Goscinny", "Albert Uderzo", "Jean Giraud"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 21,
+    "question": "Quel est le vrai nom du super-héros connu sous le nom de ‘Iron Man’ ?",
+    "correct_answer": "Tony Stark",
+    "incorrect_answers": ["Bruce Wayne", "Clark Kent", "Steve Rogers"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 21,
+    "question": "Dans quel pays est née la bande dessinée ‘Manga’ ?",
+    "correct_answer": "Japon",
+    "incorrect_answers": ["Corée", "Chine", "Vietnam"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 22,
+    "question": "Quel est le nom du premier smartphone commercialisé par Apple ?",
+    "correct_answer": "iPhone",
+    "incorrect_answers": ["iPad", "iPod", "MacBook"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 22,
+    "question": "Quel gadget est principalement utilisé pour mesurer le rythme cardiaque ?",
+    "correct_answer": "Montre connectée",
+    "incorrect_answers": ["Casque audio", "Télécommande", "Clé USB"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 22,
+    "question": "Quelle entreprise a lancé la première console de jeux vidéo domestique ?",
+    "correct_answer": "Magnavox",
+    "incorrect_answers": ["Nintendo", "Sony", "Sega"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 22,
+    "question": "Quel gadget utilise la technologie 'Rayons infrarouges' pour détecter les mouvements ?",
+    "correct_answer": "Télécommande TV",
+    "incorrect_answers": ["Smartphone", "Appareil photo", "Imprimante"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 22,
+    "question": "Quelle est la fonction principale d'un drone ?",
+    "correct_answer": "Voler sans pilote",
+    "incorrect_answers": ["Faire du café", "Envoyer des messages", "Capturer de la musique"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 22,
+    "question": "Quel gadget a été inventé pour faciliter la lecture de musique portable dans les années 1980 ?",
+    "correct_answer": "Walkman",
+    "incorrect_answers": ["Discman", "iPod", "MP3"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 22,
+    "question": "Quel appareil est utilisé pour imprimer des objets en 3D ?",
+    "correct_answer": "Imprimante 3D",
+    "incorrect_answers": ["Photocopieur", "Scanner", "Laser"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 22,
+    "question": "Quel gadget est principalement utilisé pour naviguer sur Internet de manière portable ?",
+    "correct_answer": "Smartphone",
+    "incorrect_answers": ["Tablette", "Ordinateur portable", "Montre connectée"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 22,
+    "question": "Quelle technologie est utilisée dans les gadgets pour détecter la position par satellite ?",
+    "correct_answer": "GPS",
+    "incorrect_answers": ["Bluetooth", "Wi-Fi", "NFC"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 22,
+    "question": "Quel gadget a popularisé le concept d’assistant vocal personnel ?",
+    "correct_answer": "Amazon Echo (Alexa)",
+    "incorrect_answers": ["Google Home", "Siri", "Cortana"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 23,
+    "question": "Dans quel anime trouve-t-on le personnage principal nommé Naruto Uzumaki ?",
+    "correct_answer": "Naruto",
+    "incorrect_answers": ["Bleach", "One Piece", "Dragon Ball"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 23,
+    "question": "Quel est le nom du capitaine des pirates dans 'One Piece' ?",
+    "correct_answer": "Monkey D. Luffy",
+    "incorrect_answers": ["Roronoa Zoro", "Sanji", "Nami"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 23,
+    "question": "Dans 'Dragon Ball', comment s'appelle le fils de Goku ?",
+    "correct_answer": "Gohan",
+    "incorrect_answers": ["Vegeta", "Trunks", "Krillin"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 23,
+    "question": "Quel est le pouvoir principal de Luffy dans 'One Piece' ?",
+    "correct_answer": "Le corps en caoutchouc",
+    "incorrect_answers": ["Téléportation", "Super force", "Contrôle du feu"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 23,
+    "question": "Dans quel anime les personnages utilisent-ils des 'Quirks' ?",
+    "correct_answer": "My Hero Academia",
+    "incorrect_answers": ["Attack on Titan", "Death Note", "Naruto"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 23,
+    "question": "Quel manga est connu pour son personnage Light Yagami ?",
+    "correct_answer": "Death Note",
+    "incorrect_answers": ["Bleach", "Tokyo Ghoul", "Fullmetal Alchemist"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 23,
+    "question": "Quel est le nom de la ville où se déroule principalement l’anime 'Tokyo Ghoul' ?",
+    "correct_answer": "Tokyo",
+    "incorrect_answers": ["Kyoto", "Osaka", "Sapporo"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 23,
+    "question": "Dans 'Attack on Titan', comment s'appelle le mur qui protège les humains ?",
+    "correct_answer": "Mur Maria",
+    "incorrect_answers": ["Mur Rose", "Mur Sina", "Mur Wall"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 23,
+    "question": "Quel est le métier d’Edward Elric dans 'Fullmetal Alchemist' ?",
+    "correct_answer": "Alchimiste d’État",
+    "incorrect_answers": ["Soldat", "Médecin", "Magicien"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 23,
+    "question": "Quel est le nom de l’anime où les personnages utilisent des épées appelées Zanpakuto ?",
+    "correct_answer": "Bleach",
+    "incorrect_answers": ["Naruto", "One Piece", "Demon Slayer"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 24,
+    "question": "Quel est le nom du célèbre garçon dans le dessin animé 'Les Razmoket' ?",
+    "correct_answer": "Tommy Pickles",
+    "incorrect_answers": ["Chuckie Finster", "Phil DeVille", "Angelica Pickles"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 24,
+    "question": "Dans quel dessin animé trouve-t-on un chat nommé Tom ?",
+    "correct_answer": "Tom et Jerry",
+    "incorrect_answers": ["Garfield", "Les Simpsons", "Les Pierrafeu"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 24,
+    "question": "Quel est le prénom de la sœur de Bart Simpson dans 'Les Simpsons' ?",
+    "correct_answer": "Lisa",
+    "incorrect_answers": ["Maggie", "Marge", "Patty"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 24,
+    "question": "Dans 'Scooby-Doo', quel est le nom du chien détective ?",
+    "correct_answer": "Scooby-Doo",
+    "incorrect_answers": ["Pluto", "Snoopy", "Goofy"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 24,
+    "question": "Quel dessin animé met en scène une famille préhistorique appelée les Pierrafeu ?",
+    "correct_answer": "Les Pierrafeu",
+    "incorrect_answers": ["Les Jetson", "Les Supers Nanas", "Les Animaniacs"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 24,
+    "question": "Quel est le nom du célèbre petit garçon dans 'Calimero' ?",
+    "correct_answer": "Calimero",
+    "incorrect_answers": ["Gaston", "Peyo", "Bugs Bunny"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 24,
+    "question": "Dans 'Les Supers Nanas', combien y a-t-il de super-héroïnes principales ?",
+    "correct_answer": "Trois",
+    "incorrect_answers": ["Deux", "Quatre", "Cinq"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 24,
+    "question": "Quel dessin animé raconte les aventures d’un garçon nommé Ash et de ses Pokémon ?",
+    "correct_answer": "Pokémon",
+    "incorrect_answers": ["Yu-Gi-Oh!", "Digimon", "Bakugan"],
+    "difficulty": "easy"
+  },
+  {
+    "categoryId": 24,
+    "question": "Quel est le nom de la ville où vivent les personnages de 'Les Simpsons' ?",
+    "correct_answer": "Springfield",
+    "incorrect_answers": ["Shelbyville", "Quahog", "Arlen"],
+    "difficulty": "medium"
+  },
+  {
+    "categoryId": 24,
+    "question": "Dans quel dessin animé trouve-t-on un personnage nommé 'Bob l’éponge' ?",
+    "correct_answer": "Bob l’éponge",
+    "incorrect_answers": ["Dora l’exploratrice", "Jimmy Neutron", "Les Razmoket"],
+    "difficulty": "easy"
+  }
+]
