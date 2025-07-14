@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { computed, Transition } from 'vue';
+import { computed } from 'vue';
 import ButtonNext from '../ButtonNext.vue';
 import Question from '../Question.vue';
 import store from '../../store';

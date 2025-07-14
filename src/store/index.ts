@@ -1,7 +1,7 @@
 import { reactive } from 'vue';
 import { shuffleQuestionsData } from '../helpers';
 import type { IState, IApiLoadState } from '../types';
-import { ScreenComponents, ResponseCodes } from '../enums';
+import { ScreenComponents } from '../enums';
 
 const localStorageName: string = 'quizzesResults';
 

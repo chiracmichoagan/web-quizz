@@ -22,7 +22,7 @@ const counter = computed(() => {
 
 watch(
   () => completedPercent.value,
-  (newValue, oldValue) => {
+  (oldValue) => {
     countFrom.value = oldValue;
   }
 );
