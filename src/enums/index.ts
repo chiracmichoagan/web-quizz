@@ -1,4 +1,5 @@
 const ScreenComponents = {
+  Welcom: 'Welcom',
   Options: 'Options',
   Quiz: 'Quiz',
   Report: 'Report',

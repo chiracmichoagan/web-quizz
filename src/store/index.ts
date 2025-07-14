@@ -21,7 +21,7 @@ const store = {
     numberOfQuestions: 10,
     activeQuestionNumber: 0,
     isQuizEnded: false,
-    activeComponent: ScreenComponents.Options,
+    activeComponent: ScreenComponents.Welcom,
     apiLoadState: {
       categories: {
         isLoaded: false,

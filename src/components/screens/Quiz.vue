@@ -16,36 +16,40 @@ const footerStyle = computed(() => {
 </script>
 
 <template>
-  <section class="c-quiz">
-    <div class="container">
-      <div class="header">
-        <Progress />
-      </div>
-
-      <Transition
-        enter-active-class="animate__animated animate__zoomIn animate-duration"
-        leave-active-class="animate__animated animate__zoomOut animate-duration"
-        mode="out-in"
-      >
-        <div class="body" v-if="activeQuestion.question" :key="activeQuestion.question">
-          <Question
-            :question="activeQuestion"
-            :question-number="activeQuestionNumber"
-            :show-answer="false"
-          />
+  <div
+    class="min-h-screen flex items-center justify-center bg-gradient-to-br from-fuchsia-800 to-purple-900 px-2 py-6 sm:px-4 sm:py-10"
+  >
+    <section class="c-quiz bg-indigo-500 text-white font-bold">
+      <div class="container">
+        <div class="header bg-indigo-500 text-white font-bold">
+          <Progress />
         </div>
-      </Transition>
 
-      <div class="footer" :style="footerStyle">
         <Transition
           enter-active-class="animate__animated animate__zoomIn animate-duration"
           leave-active-class="animate__animated animate__zoomOut animate-duration"
+          mode="out-in"
         >
-          <ButtonNext v-if="activeQuestionAnswer" @click="store.mutations.handleNext()" />
+          <div class="body" v-if="activeQuestion.question" :key="activeQuestion.question">
+            <Question
+              :question="activeQuestion"
+              :question-number="activeQuestionNumber"
+              :show-answer="false"
+            />
+          </div>
         </Transition>
+
+        <div class="footer" :style="footerStyle">
+          <Transition
+            enter-active-class="animate__animated animate__zoomIn animate-duration"
+            leave-active-class="animate__animated animate__zoomOut animate-duration"
+          >
+            <ButtonNext v-if="activeQuestionAnswer" @click="store.mutations.handleNext()" />
+          </Transition>
+        </div>
       </div>
-    </div>
-  </section>
+    </section>
+  </div>
 </template>
 
 <style lang="scss" scoped>
@@ -58,7 +62,7 @@ const footerStyle = computed(() => {
   max-width: $br_sm;
   margin: 0 auto;
   width: 100%;
-  background-color: $colorWhite;
+  // background-color: $colorWhite;
   border-radius: 8px;
   overflow: hidden;
 }
@@ -78,8 +82,8 @@ const footerStyle = computed(() => {
 
 .header {
   padding: 30px;
-  background-color: $colorNeutral50;
-  border-bottom: 1px solid $colorGray300;
+  // background-color: $colorNeutral50;
+  // border-bottom: 1px solid $colorGray300;
 }
 
 .body {

@@ -48,7 +48,7 @@ function handleOption() {
   }
 
   &:not(:disabled):hover {
-    background-color: $colorGray200;
+    background-color: $colorIndigo500;
   }
 
   &:not(:disabled):active {

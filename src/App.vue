@@ -4,10 +4,15 @@ import { ScreenComponents } from './enums';
 import Options from './components/screens/Options.vue';
 import store from './store';
 import Alert from './components/Alert.vue';
+import Welcom from '../src/components/screens/Welcom.vue';
 
 const Quiz = defineAsyncComponent(() => import('./components/screens/Quiz.vue'));
 const Report = defineAsyncComponent(() => import('./components/screens/Report.vue'));
 const components = {
+  [ScreenComponents.Welcom]: {
+    name: ScreenComponents.Welcom,
+    component: Welcom,
+  },
   [ScreenComponents.Options]: {
     name: ScreenComponents.Options,
     component: Options,
@@ -32,7 +37,6 @@ store.actions.fetchCategories();
 
 <template>
   <main class="main">
-    <h1 class="title">Welcome to My Quiz App</h1>
     <Transition
       enter-active-class="animate__animated animate__slideInLeft  animate-duration"
       leave-active-class="animate__animated animate__animated animate-duration"

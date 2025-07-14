@@ -49,7 +49,7 @@ const emit = defineEmits<{
 
 <template>
   <select v-model="selectedItem" class="custom-select">
-    <option v-if="placeholder"  disabled value="">
+    <option v-if="placeholder" disabled value="">
       {{ placeholder }}
     </option>
 

@@ -21,15 +21,15 @@ function questionOptionClass(option: string): string {
   const userAnswer = store.getters.getUserAnswers(props.questionNumber);
   if (props.showAnswer) {
     if (option == userAnswer && userAnswer == props.question.correct_answer) {
-      return 'bg-green-300 text-green-700';
+      return 'bg-green-500 text-black-700';
     } else if (option == userAnswer) {
-      return 'bg-red-300 text-red-600';
+      return 'bg-red-500 text-black-600';
     }
     return 'bg-white text-black';
   }
 
   if (option == store.getters.getUserAnswers(props.questionNumber)) {
-    return 'bg-gray-200 text-black';
+    return 'bg-yellow-300 text-black';
   }
   return 'bg-white text-black';
 }
