@@ -152,7 +152,7 @@ const store = {
     async fetchQuestions(category: number, difficulty: string) {
       store.mutations.setApiLoadState('questions', 'isCalled', true);
       try {
-        const response = await fetch('/src/data/questions.json');
+        const response = await fetch('/data/questions.json');
         const data = await response.json();
 
         // Filtrer les questions selon la catégorie et la difficulté
@@ -179,7 +179,7 @@ const store = {
     async fetchCategories() {
       store.mutations.setApiLoadState('categories', 'isCalled', true);
       try {
-        const response = await fetch('/src/data/categories.json');
+        const response = await fetch('/data/categories.json');
         const data = await response.json();
         store.state.categories = data;
       } catch (e: any) {
