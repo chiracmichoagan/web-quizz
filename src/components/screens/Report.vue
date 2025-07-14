@@ -10,11 +10,11 @@ const report = computed(() => store.getters.getActiveQuizResult());
 <template>
   <section class="c-report">
     <h1 class="title">
-      You got {{ report.correctAnswersNumber }} out of {{ report.totalQuestionsNumber }} questions
-      right!
+      Vous avez obtenu {{ report.correctAnswersNumber }} reponse sur {{ report.totalQuestionsNumber }} questions
+    !!
     </h1>
     <h3 class="description" v-if="report.hasAllQuizzesSuccessRate">
-      You where better then {{ report.allQuizzesSuccessRate }}% of all quizer!
+     votre meilleur score {{ report.allQuizzesSuccessRate }}%
     </h3>
     <div class="queston">
       <div class="questions-title">vos resultats</div>
